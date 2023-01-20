@@ -1,7 +1,7 @@
 # PartyPlanner-Allamaneni
 APCS Party Planner Project
 
-In the Party Planner Project, the code takes a csv file and organizes all the names in it to make a roster of what table and chair each person sits in. The code makes sure that only one person from each company can sit at each table.
+The main class file is Main.java. In the Party Planner Project, the code takes a csv file and organizes all the names in it to make a roster of what table and chair each person sits in. The code makes sure that only one person from each company can sit at each table.
 
 The user will be able to add people manually to the listand then prompted and may choose one of the folllowing options:
 
